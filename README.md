@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div style="display:inline-block;flex-direction:row;justify-content:space-between;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabriel-abn&show_icons=true&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-abn&show_icons=true&theme=synthwave"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-abn&show_icons=true&theme=synthwave&layout=compact"/>
 </div>
 
