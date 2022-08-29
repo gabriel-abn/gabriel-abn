@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 ## Languages and tecnologies
 - Typescript/Javascript
 - NodeJS
-- C
-- C#
+- C/C#
 - Java
 - Python
-- Django
 - HTML/CSS
 - SQL
 - Git
