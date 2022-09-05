@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 # Hard skills
 
-## Languages and tecnologies
+## Main Languages and tecnologies
 - Typescript/Javascript
 - NodeJS
 - C/C#
@@ -22,9 +22,14 @@ Here are some ideas to get you started:
 - SQL
 - Git
 
-## Database
+## Databases
 - MySQL
 - SQLite
+
+## Architecures and metodologies
+- Clean Architecure
+- TDD
+- DDD
 
 <div style="display:inline-block;flex-direction:row;justify-content:space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-abn&show_icons=true&theme=synthwave"/>
