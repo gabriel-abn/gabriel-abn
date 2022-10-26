@@ -1,29 +1,22 @@
 ### Hi there 👋
-<!--
-**gabriel-abn/gabriel-abn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently studying Information Systems at Universidade Federal de Ouro Preto (UFOP), currently at 7th semester.
-- 🌱 I’m currently learning Typescript in NodeJS, but I have some projects using C for some academic activities, Python in Django with ReactJS, C#, etc.
+- 🔭 I’m currently studying *Information Systems* at **Universidade Federal de Ouro Preto (UFOP)**, currently at 7th semester.
+- 🌱 I’m currently learning *Typescript in NodeJS*, but I have some projects using C for some academic activities, Python in Django with ReactJS, C#, etc.
 - 👯 Actually performing as **Fullstack Development Intern** at ***XP Educação.***
 - ⚡ Fun fact: I'm afraid of getting addicted at programming! LMAO 
 
-# Hard skills
-
 ## Main Languages and tecnologies
-- Typescript/Javascript
-- NodeJS
+- Nodejs using **Typescript/Javascript**
+- *Python*
 - C/C#
 - Java
-- Python
 - HTML/CSS
 - SQL
 - Git
 
 ## Databases
 - MySQL
+- PostgreSQL
 - SQLite
 
 ## Architecures and metodologies
