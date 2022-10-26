@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying Information Systems at Universidade Federal de Ouro Preto (UFOP), currently at 7th semester.
 - 🌱 I’m currently learning Typescript in NodeJS, but I have some projects using C for some academic activities, Python in Django with ReactJS, C#, etc.
-- 👯 I’m looking to collaborate on back-end development;
+- 👯 Actually performing as **Fullstack Development Intern** at ***XP Educação.***
 - ⚡ Fun fact: I'm afraid of getting addicted at programming! LMAO 
 
 # Hard skills
