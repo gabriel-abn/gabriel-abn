@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying *Information Systems* at **Universidade Federal de Ouro Preto (UFOP)**, currently at 8th semester.
-- 🌱 I’m currently learning *Typescript in NodeJS*, but I have some projects using C for some academic activities, Python in Django with ReactJS, C#, etc.
+- 🌱 I’m currently foucusing in *Typescript in NodeJS* and *Python with Flask*, but I have some projects using C and Java for some academic activities.
 - 👯 Actually performing as **Fullstack Development Intern** at ***XP Educação.***
 - ⚡ Fun fact: I'm afraid of getting addicted at programming! LMAO 
 
@@ -23,9 +23,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## Databases
-- MySQL
+### Relational Databases
 - PostgreSQL
+- MySQL
 - SQLite
+
+### No-Relational Databases
+- MongoDB
 
 ## Architecures and metodologies
 - Clean Architecure
