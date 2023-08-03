@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying *Information Systems* at **Universidade Federal de Ouro Preto (UFOP)**, currently at 8th semester.
 - 🌱 I’m currently foucusing in *Typescript in NodeJS* and *Python with Flask*, but I have some projects using C and Java for some academic activities.
-- 👯 Actually performing as **Fullstack Development Intern** at ***XP Educação.***
+- 👯 Actually performing as **Fullstack Development Intern** at ***[XP Educação](https://xpeducacao.com.br).***
 - ⚡ Fun fact: I'm afraid of getting addicted at programming! LMAO 
 
 ## Main Languages and tecnologies
