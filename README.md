@@ -5,7 +5,7 @@
 - 👯 Actually performing as **Fullstack Development Intern** at ***[XP Educação](https://xpeducacao.com.br).***
 - ⚡ Fun fact: I'm afraid of getting addicted at programming! LMAO
 
-All my project are divided in categories:
+All my projects are divided in categories:
 
 <div align="center">
   
