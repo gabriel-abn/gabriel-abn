@@ -5,6 +5,16 @@
 - 👯 Actually performing as **Fullstack Development Intern** at ***[XP Educação](https://xpeducacao.com.br).***
 - ⚡ Fun fact: I'm afraid of getting addicted at programming! LMAO
 
+All my project are divided in categories:
+
+<div align="center">
+  
+  [**Back-end Challenges**](https://github.com/stars/gabriel-abn/lists/warning-back-end-challenges)&nbsp; |
+  [**Academic Projects**](https://github.com/stars/gabriel-abn/lists/mortar-board-academic-projects)&nbsp; |
+  [**Practical Studies**](https://github.com/stars/gabriel-abn/lists/books-practical-studies)&nbsp;
+
+</div>
+
 ## Main Languages and tecnologies
 
 <div align="center">
