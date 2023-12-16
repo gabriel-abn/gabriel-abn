@@ -49,8 +49,8 @@ All my projects are divided in categories:
 - DDD
 
 <p align="center" width="100%" style="justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-abn&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-abn&layout=compact&langs_count=8&theme=omni"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabriel-abn&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-abn&layout=compact&langs_count=6&theme=omni&card_width=350"/>
 </p>
 
 
