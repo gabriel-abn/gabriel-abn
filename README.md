@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently graduating *Information Systems* at **PUC Minas**.
-- 🌱 I’m currently foucusing in *Typescript in NodeJS* and *Python with Flask*, but I have some projects using C and Java for some academic activities.
+- 🌱 I’m currently foucusing on **_Python_** and **_JS/TS_** but I have some projects using C and Java for some academic activities.
 - 👯 Actually performing as **Fullstack Developer** at ***[XP Educação](https://xpeducacao.com.br).***
 - ⚡ Fun fact: I'm afraid of getting addicted at programming! LMAO
 
